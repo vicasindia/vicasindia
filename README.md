@@ -2,5 +2,5 @@
 
 
 <a href="https://github.com/vicasindia">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicasindia&show_icons=true&hide=prs&theme=dark&line_height=30" alt="Vikas's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicasindia&show_icons=true&theme=dark&line_height=30" alt="Vikas's github stats"/>
 </a>
